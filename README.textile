@@ -1,0 +1,5 @@
+h1. Skim Note Collector
+    
+An Automator script for extracting Skim notes and inserting them into a
+new Word document along with document name and page number.
+
